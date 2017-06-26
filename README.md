@@ -4,4 +4,4 @@ A custom stager that generates an office macro, which when ran will backdoor .ln
 
 NOTE:  This is a very early iteration of this tool and is for testing purposes only, as such it has been hardcoded with several default .lnk files it will attempt to modify (iexplore.lnk on the user's desktop and Internet Explorer.lnk in the user's Quicklaunch Taskbar)
 
-Usage:  Drop backdoorLnkMacroStager.py into *rootEmpireFolder*/lib/stagers/windows and start empire, the stager should now show up in your stagers list (usestager windows/backdoorLnkMacroStager.py)
+Usage:  Drop backdoorLnkMacro.py into *rootEmpireFolder*/lib/stagers/windows and start empire, the stager should now show up in your stagers list (usestager windows/backdoorLnkMacro.py)
